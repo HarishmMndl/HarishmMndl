@@ -118,21 +118,46 @@ Currently focused on:
 
 <br/>
 
-### 💡 Coming Soon
-*Exciting projects in the pipeline!*
+### 📊 Sales Analytics
+*End-to-End BI Pipeline with Power BI, SQL & Excel*  
+⭐ **Featured Project**
 
-- 🛠️ **Data Analytics Dashboards** — Interactive Power BI & Excel visualizations
-- 🤖 **ML Projects** — Real-world machine learning applications
-- 💻 **Full-Stack Web Apps** — React-based web applications
+- 🧹 **ETL & Data Cleaning**: Extensive pre-processing in Excel (date standardization, missing values & duplicate handling).
+- 🗄️ **SQL Data Engine**: Optimized schema design, relational joins, Views & Indexes for high-speed data querying.
+- 📈 **Interactive Power BI Dashboard**: Custom DAX measures, dynamic KPI tracking, customer behavior & regional sales insights.
 
 <br/>
 
-*Stay tuned — projects dropping soon! 🚀*
+[![Power BI](https://img.shields.io/badge/Power_BI-0B1220?style=flat-square&logo=powerbi&logoColor=06B6D4)](#)
+[![SQL](https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=postgresql&logoColor=1D4ED8)](#)
+[![Excel](https://img.shields.io/badge/Excel-0B1220?style=flat-square&logo=microsoftexcel&logoColor=06B6D4)](#)
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View_Repository_%E2%86%92-0B1220?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=050a14&color=1D4ED8)](https://github.com/HarishmMndl/End-to-End-Sales-Analytics-PowerBI-SQL)
 
 </td>
 <td width="50%" valign="top">
 
-&nbsp;
+<br/>
+
+### 🏦 Bank Loan Analysis
+*Financial Risk Analytics & Loan Default Dashboard*  
+⭐ **Featured Project**
+
+- 📉 **Risk Segmentation**: Identification of high-risk borrower segments by income bracket, employment type, and age group.
+- 🗓️ **YoY Trend Analysis**: Tracking default rates and loan repayment behavior over time.
+- 🧮 **Advanced DAX Metrics**: Calculated measures and dynamic columns for comprehensive financial risk modeling in Power BI.
+
+<br/>
+
+[![Power BI](https://img.shields.io/badge/Power_BI-0B1220?style=flat-square&logo=powerbi&logoColor=06B6D4)](#)
+[![DAX](https://img.shields.io/badge/DAX-0B1220?style=flat-square&logo=powerbi&logoColor=1D4ED8)](#)
+[![Analytics](https://img.shields.io/badge/Financial_Analytics-0B1220?style=flat-square&logo=chartdotjs&logoColor=06B6D4)](#)
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View_Repository_%E2%86%92-0B1220?style=for-the-badge&logo=github&logoColor=06B6D4&labelColor=050a14&color=1D4ED8)](https://github.com/HarishmMndl/Bank-Loan-Analysis-Power-BI)
 
 </td>
 </tr>
@@ -145,7 +170,8 @@ Currently focused on:
 
 | Project | Description | Stack |
 |---|---|---|
-| *(coming soon)* | — | — |
+| [Sales Analytics](https://github.com/HarishmMndl/End-to-End-Sales-Analytics-PowerBI-SQL) | End-to-End Data Pipeline & BI Dashboard | Power BI, SQL, Excel |
+| [Bank Loan Analysis](https://github.com/HarishmMndl/Bank-Loan-Analysis-Power-BI) | Financial Risk & Loan Default Analysis | Power BI, DAX |
 
 </details>
 
