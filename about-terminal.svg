@@ -11,38 +11,38 @@
     </clipPath>
     <!-- Scanline gradient -->
     <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"  stop-color="#ef4444" stop-opacity="0"/>
-      <stop offset="45%" stop-color="#ef4444" stop-opacity="0.06"/>
-      <stop offset="50%" stop-color="#f97316" stop-opacity="0.10"/>
-      <stop offset="55%" stop-color="#ef4444" stop-opacity="0.06"/>
-      <stop offset="100%" stop-color="#ef4444" stop-opacity="0"/>
+      <stop offset="0%"  stop-color="#1D4ED8" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#1D4ED8" stop-opacity="0.06"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.10"/>
+      <stop offset="55%" stop-color="#1D4ED8" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#1D4ED8" stop-opacity="0"/>
     </linearGradient>
   </defs>
 
   <!-- ───── CARD BACKGROUND ───── -->
   <g clip-path="url(#cardClip)">
-    <rect width="900" height="385" fill="#1a0a0a"/>
+    <rect width="900" height="385" fill="#0B1220"/>
 
     <!-- ───── TITLE BAR ───── -->
-    <rect width="900" height="40" fill="#0d0505"/>
+    <rect width="900" height="40" fill="#060b14"/>
     <!-- Traffic lights -->
     <circle cx="20" cy="20" r="6" fill="#ef4444"/>
-    <circle cx="40" cy="20" r="6" fill="#f97316"/>
-    <circle cx="60" cy="20" r="6" fill="#22c55e"/>
+    <circle cx="40" cy="20" r="6" fill="#f59e0b"/>
+    <circle cx="60" cy="20" r="6" fill="#10b981"/>
     <!-- Title -->
-    <text x="450" y="25" text-anchor="middle" class="mono" font-size="13" fill="#fca5a5" font-weight="600">harish@dev ~ % python profile.py</text>
+    <text x="450" y="25" text-anchor="middle" class="mono" font-size="13" fill="#F8FAFC" font-weight="600">harish@dev ~ % python profile.py</text>
 
     <!-- ───── LEFT: Terminal-style ASCII art avatar ───── -->
     <g transform="translate(24, 56)">
       <!-- Avatar frame -->
-      <rect x="0" y="0" width="216" height="216" rx="12" fill="#0d0505" stroke="#ef4444" stroke-width="1.5" opacity="0.8"/>
+      <rect x="0" y="0" width="216" height="216" rx="12" fill="#050a14" stroke="#1D4ED8" stroke-width="1.5" opacity="0.8"/>
       
-      <!-- Fire gradient avatar placeholder -->
+      <!-- Gradient avatar placeholder -->
       <defs>
         <linearGradient id="avatarGrad" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#ef4444"/>
-          <stop offset="50%" stop-color="#f97316"/>
-          <stop offset="100%" stop-color="#fbbf24"/>
+          <stop offset="0%" stop-color="#1D4ED8"/>
+          <stop offset="50%" stop-color="#06B6D4"/>
+          <stop offset="100%" stop-color="#38bdf8"/>
         </linearGradient>
         <clipPath id="avatarClip">
           <rect x="8" y="8" width="200" height="200" rx="8"/>
@@ -53,13 +53,13 @@
         <rect x="8" y="8" width="200" height="200" fill="url(#avatarGrad)" opacity="0.15"/>
         
         <!-- Stylized HK monogram -->
-        <text x="108" y="90" text-anchor="middle" class="mono" font-size="11" fill="#ef4444" opacity="0.6">┌─────────────────────┐</text>
+        <text x="108" y="90" text-anchor="middle" class="mono" font-size="11" fill="#1D4ED8" opacity="0.8">┌─────────────────────┐</text>
         <text x="108" y="108" text-anchor="middle" class="mono" font-size="28" fill="url(#avatarGrad)" font-weight="600">H K</text>
-        <text x="108" y="128" text-anchor="middle" class="mono" font-size="10" fill="#fca5a5" opacity="0.7">Harish Kumar</text>
-        <text x="108" y="148" text-anchor="middle" class="mono" font-size="11" fill="#ef4444" opacity="0.6">└─────────────────────┘</text>
+        <text x="108" y="128" text-anchor="middle" class="mono" font-size="10" fill="#F8FAFC" opacity="0.9">Harish Kumar</text>
+        <text x="108" y="148" text-anchor="middle" class="mono" font-size="11" fill="#1D4ED8" opacity="0.8">└─────────────────────┘</text>
 
         <!-- Decorative grid dots -->
-        <g opacity="0.12" fill="#f97316">
+        <g opacity="0.15" fill="#06B6D4">
           <circle cx="30" cy="30" r="1.5"/><circle cx="50" cy="30" r="1.5"/><circle cx="70" cy="30" r="1.5"/>
           <circle cx="30" cy="50" r="1.5"/><circle cx="50" cy="50" r="1.5"/><circle cx="70" cy="50" r="1.5"/>
           <circle cx="140" cy="30" r="1.5"/><circle cx="160" cy="30" r="1.5"/><circle cx="180" cy="30" r="1.5"/>
@@ -72,7 +72,7 @@
       </g>
       
       <!-- Status line under avatar -->
-      <text x="108" y="240" text-anchor="middle" class="mono" font-size="10" fill="#f97316" opacity="0.8">
+      <text x="108" y="240" text-anchor="middle" class="mono" font-size="10" fill="#06B6D4" opacity="0.9">
         <tspan>● online</tspan>
       </text>
     </g>
@@ -80,7 +80,7 @@
     <!-- ───── RIGHT: Code block ───── -->
     <g transform="translate(270, 56)">
       <!-- Line numbers gutter -->
-      <g class="mono" font-size="12.5" fill="#5c3a3a" opacity="0.6">
+      <g class="mono" font-size="12.5" fill="#475569" opacity="0.7">
         <text x="0" y="14"> 1</text>
         <text x="0" y="32"> 2</text>
         <text x="0" y="50"> 3</text>
@@ -103,40 +103,40 @@
       <!-- Code content -->
       <g class="mono" font-size="12.5">
         <!-- Line 1: comment -->
-        <text x="30" y="14" fill="#6b7280"># profile.py</text>
+        <text x="30" y="14" fill="#64748b"># profile.py</text>
         <!-- Line 2: from -->
-        <text x="30" y="32"><tspan fill="#ef4444" font-weight="600">from</tspan><tspan fill="#fde8e8"> dataclasses </tspan><tspan fill="#ef4444" font-weight="600">import</tspan><tspan fill="#fde8e8"> dataclass</tspan></text>
+        <text x="30" y="32"><tspan fill="#3b82f6" font-weight="600">from</tspan><tspan fill="#F8FAFC"> dataclasses </tspan><tspan fill="#3b82f6" font-weight="600">import</tspan><tspan fill="#F8FAFC"> dataclass</tspan></text>
         <!-- Line 3: blank -->
         <!-- Line 4: decorator -->
-        <text x="30" y="68"><tspan fill="#f97316" font-weight="600">@dataclass</tspan></text>
+        <text x="30" y="68"><tspan fill="#06B6D4" font-weight="600">@dataclass</tspan></text>
         <!-- Line 5: class -->
-        <text x="30" y="86"><tspan fill="#ef4444" font-weight="600">class</tspan><tspan fill="#f97316" font-weight="600"> Developer</tspan><tspan fill="#fde8e8">:</tspan></text>
+        <text x="30" y="86"><tspan fill="#3b82f6" font-weight="600">class</tspan><tspan fill="#06B6D4" font-weight="600"> Developer</tspan><tspan fill="#F8FAFC">:</tspan></text>
         <!-- Line 6: name -->
-        <text x="30" y="104"><tspan fill="#fde8e8">    name</tspan><tspan fill="#7a5a5a">:</tspan><tspan fill="#f97316" font-weight="600"> str</tspan><tspan fill="#7a5a5a"> = </tspan><tspan fill="#fde8e8">"Harish Kumar"</tspan></text>
+        <text x="30" y="104"><tspan fill="#F8FAFC">    name</tspan><tspan fill="#64748b">:</tspan><tspan fill="#06B6D4" font-weight="600"> str</tspan><tspan fill="#64748b"> = </tspan><tspan fill="#F8FAFC">"Harish Kumar"</tspan></text>
         <!-- Line 7: role -->
-        <text x="30" y="122"><tspan fill="#fde8e8">    role</tspan><tspan fill="#7a5a5a">:</tspan><tspan fill="#f97316" font-weight="600"> str</tspan><tspan fill="#7a5a5a"> = </tspan><tspan fill="#fde8e8">"CS Student"</tspan></text>
+        <text x="30" y="122"><tspan fill="#F8FAFC">    role</tspan><tspan fill="#64748b">:</tspan><tspan fill="#06B6D4" font-weight="600"> str</tspan><tspan fill="#64748b"> = </tspan><tspan fill="#F8FAFC">"CS Student"</tspan></text>
         <!-- Line 8: university -->
-        <text x="30" y="140"><tspan fill="#fde8e8">    uni</tspan><tspan fill="#7a5a5a">:</tspan><tspan fill="#f97316" font-weight="600"> str</tspan><tspan fill="#7a5a5a"> = </tspan><tspan fill="#fde8e8">"BIT Sindri '28"</tspan></text>
+        <text x="30" y="140"><tspan fill="#F8FAFC">    uni</tspan><tspan fill="#64748b">:</tspan><tspan fill="#06B6D4" font-weight="600"> str</tspan><tspan fill="#64748b"> = </tspan><tspan fill="#F8FAFC">"BIT Sindri '28"</tspan></text>
         <!-- Line 9: location -->
-        <text x="30" y="158"><tspan fill="#fde8e8">    loc</tspan><tspan fill="#7a5a5a">:</tspan><tspan fill="#f97316" font-weight="600"> str</tspan><tspan fill="#7a5a5a"> = </tspan><tspan fill="#fde8e8">"Deoghar, Jharkhand 🇮🇳"</tspan></text>
+        <text x="30" y="158"><tspan fill="#F8FAFC">    loc</tspan><tspan fill="#64748b">:</tspan><tspan fill="#06B6D4" font-weight="600"> str</tspan><tspan fill="#64748b"> = </tspan><tspan fill="#F8FAFC">"Deoghar, Jharkhand 🇮🇳"</tspan></text>
         <!-- Line 10: blank -->
         <!-- Line 11: focus -->
-        <text x="30" y="194"><tspan fill="#fde8e8">    focus</tspan><tspan fill="#7a5a5a">:</tspan><tspan fill="#f97316" font-weight="600"> list</tspan><tspan fill="#7a5a5a"> = </tspan><tspan fill="#ef4444" font-weight="600">field</tspan><tspan fill="#fde8e8">(</tspan><tspan fill="#7a5a5a">default_factory=</tspan><tspan fill="#ef4444" font-weight="600">lambda</tspan><tspan fill="#fde8e8">: [</tspan></text>
+        <text x="30" y="194"><tspan fill="#F8FAFC">    focus</tspan><tspan fill="#64748b">:</tspan><tspan fill="#06B6D4" font-weight="600"> list</tspan><tspan fill="#64748b"> = </tspan><tspan fill="#3b82f6" font-weight="600">field</tspan><tspan fill="#F8FAFC">(</tspan><tspan fill="#64748b">default_factory=</tspan><tspan fill="#3b82f6" font-weight="600">lambda</tspan><tspan fill="#F8FAFC">: [</tspan></text>
         <!-- Line 12 -->
-        <text x="30" y="212"><tspan fill="#fde8e8">        "Data Analytics &amp; Visualization",</tspan></text>
+        <text x="30" y="212"><tspan fill="#F8FAFC">        "Data Analytics &amp; Visualization",</tspan></text>
         <!-- Line 13 -->
-        <text x="30" y="230"><tspan fill="#fde8e8">        "Machine Learning",</tspan></text>
+        <text x="30" y="230"><tspan fill="#F8FAFC">        "Machine Learning",</tspan></text>
         <!-- Line 14 -->
-        <text x="30" y="248"><tspan fill="#fde8e8">        "Full-Stack Web Development",</tspan></text>
+        <text x="30" y="248"><tspan fill="#F8FAFC">        "Full-Stack Web Development",</tspan></text>
         <!-- Line 15 -->
-        <text x="30" y="266"><tspan fill="#fde8e8">    ])</tspan></text>
+        <text x="30" y="266"><tspan fill="#F8FAFC">    ])</tspan></text>
         <!-- Line 16: blank -->
         <!-- Line 17: currently_learning -->
-        <text x="30" y="302"><tspan fill="#fde8e8">    learning</tspan><tspan fill="#7a5a5a">:</tspan><tspan fill="#f97316" font-weight="600"> str</tspan><tspan fill="#7a5a5a"> = </tspan><tspan fill="#fde8e8">"Deep Learning 🔥"</tspan></text>
+        <text x="30" y="302"><tspan fill="#F8FAFC">    learning</tspan><tspan fill="#64748b">:</tspan><tspan fill="#06B6D4" font-weight="600"> str</tspan><tspan fill="#64748b"> = </tspan><tspan fill="#F8FAFC">"Deep Learning 🚀"</tspan></text>
       </g>
 
       <!-- Blinking cursor -->
-      <rect x="480" y="291" width="8" height="15" fill="#ef4444">
+      <rect x="480" y="291" width="8" height="15" fill="#06B6D4">
         <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
       </rect>
     </g>

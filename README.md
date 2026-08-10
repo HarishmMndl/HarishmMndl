@@ -1,7 +1,7 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  HARISH KUMAR — GitHub Profile README                               ║ -->
-<!-- ║  Design: Fire / Ember Terminal                                       ║ -->
-<!-- ║  Palette: #1a0a0a · #ef4444 · #f97316 · #fde8e8 · #7a5a5a          ║ -->
+<!-- ║  Design: Deep Oceanic / Cyber Tech                                   ║ -->
+<!-- ║  Palette: #0B1220 · #1D4ED8 · #06B6D4 · #F8FAFC                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
@@ -10,22 +10,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a0a,25:3b0a0a,50:ef4444,75:f97316,100:fbbf24&height=220&section=header&text=Harish%20Kumar&fontSize=42&fontColor=fde8e8&fontAlignY=35&desc=Turning%20Ideas%20Into%20Code%2C%20and%20Data%20Into%20Insights&descAlignY=55&descColor=f97316&animation=twinkling" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,25:0f172a,50:1D4ED8,75:0284c7,100:06B6D4&height=220&section=header&text=Harish%20Kumar&fontSize=42&fontColor=F8FAFC&fontAlignY=35&desc=Turning%20Ideas%20Into%20Code%2C%20and%20Data%20Into%20Insights&descAlignY=55&descColor=06B6D4&animation=twinkling" width="100%" alt="Header Banner"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=%F0%9F%92%BB+Computer+Science+Student+%C2%B7+BIT+Sindri+%E2%80%94+Class+of+2028;%F0%9F%93%8A+Data+Analytics+%26+Visualization+Enthusiast;%F0%9F%A4%96+Machine+Learning+%26+AI+Explorer;%F0%9F%94%A5+Building+Real-World+Solutions+With+Code;%F0%9F%9A%80+Passionate+About+Web+Development+%26+Data+Science)](https://github.com/HarishmMndl)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=%F0%9F%92%BB+Computer+Science+Student+%C2%B7+BIT+Sindri+%E2%80%94+Class+of+2028;%F0%9F%93%8A+Data+Analytics+%26+Visualization+Enthusiast;%F0%9F%A4%96+Machine+Learning+%26+AI+Explorer;%F0%9F%92%A1+Building+Real-World+Solutions+With+Code;%F0%9F%9A%80+Passionate+About+Web+Development+%26+Data+Science)](https://github.com/HarishmMndl)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3b0a0a?style=for-the-badge&logo=linkedin&logoColor=f97316)](https://www.linkedin.com/in/harish-kumar-3b212832a/)
-[![Gmail](https://img.shields.io/badge/Gmail-3b0a0a?style=for-the-badge&logo=gmail&logoColor=ef4444)](mailto:harishmandal8863@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-3b0a0a?style=for-the-badge&logo=leetcode&logoColor=f97316)](https://leetcode.com/u/harishmndl886/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-7a5a5a?style=for-the-badge&logo=googlechrome&logoColor=7a5a5a)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=06B6D4)](https://www.linkedin.com/in/harish-kumar-3b212832a/)
+[![Gmail](https://img.shields.io/badge/Gmail-0B1220?style=for-the-badge&logo=gmail&logoColor=1D4ED8)](mailto:harishmandal8863@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0B1220?style=for-the-badge&logo=leetcode&logoColor=06B6D4)](https://leetcode.com/u/harishmndl886/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-64748b?style=for-the-badge&logo=googlechrome&logoColor=64748b)](#)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0a0a,50:ef4444,100:3b0a0a&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:1D4ED8,100:0B1220&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- ABOUT ME                                                             -->
@@ -65,7 +65,7 @@ Currently focused on:
   </i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ef4444,100:f97316&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:1D4ED8,100:06B6D4&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- TECH ARSENAL                                                           -->
@@ -87,16 +87,16 @@ Currently focused on:
 
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" alt="Data Analytics"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Power_BI-3b0a0a?style=for-the-badge&logo=powerbi&logoColor=f97316" height="28" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-3b0a0a?style=for-the-badge&logo=microsoftexcel&logoColor=ef4444" height="28" alt="Excel"/>
-<img src="https://img.shields.io/badge/Pandas-3b0a0a?style=for-the-badge&logo=pandas&logoColor=f97316" height="28" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Power_BI-0B1220?style=for-the-badge&logo=powerbi&logoColor=06B6D4" height="28" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-0B1220?style=for-the-badge&logo=microsoftexcel&logoColor=1D4ED8" height="28" alt="Excel"/>
+<img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=06B6D4" height="28" alt="Pandas"/>
 
 **🤖 Machine Learning**
 
 <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="40" alt="ML"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TF--IDF-3b0a0a?style=for-the-badge&logo=scikitlearn&logoColor=ef4444" height="28" alt="TF-IDF"/>
-<img src="https://img.shields.io/badge/Logistic_Regression-3b0a0a?style=for-the-badge&logo=scikitlearn&logoColor=f97316" height="28" alt="Logistic Regression"/>
+<img src="https://img.shields.io/badge/TF--IDF-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=1D4ED8" height="28" alt="TF-IDF"/>
+<img src="https://img.shields.io/badge/Logistic_Regression-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=06B6D4" height="28" alt="Logistic Regression"/>
 
 **☁️ DevOps · Tools**
 
@@ -104,7 +104,7 @@ Currently focused on:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0a0a,50:ef4444,100:3b0a0a&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:1D4ED8,100:0B1220&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- FLAGSHIP PROJECTS                                                      -->
@@ -118,7 +118,7 @@ Currently focused on:
 
 <br/>
 
-### 🔥 Coming Soon
+### 💡 Coming Soon
 *Exciting projects in the pipeline!*
 
 - 🛠️ **Data Analytics Dashboards** — Interactive Power BI & Excel visualizations
@@ -149,7 +149,7 @@ Currently focused on:
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ef4444,100:f97316&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:1D4ED8,100:06B6D4&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- GITHUB STATS & STREAK                                                  -->
@@ -159,13 +159,13 @@ Currently focused on:
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarishmMndl&show_icons=true&bg_color=1a0a0a&title_color=ef4444&icon_color=f97316&text_color=fde8e8&border_color=ef4444&hide_border=false" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarishmMndl&show_icons=true&bg_color=0B1220&title_color=3b82f6&icon_color=06B6D4&text_color=F8FAFC&border_color=1D4ED8&hide_border=false" height="165" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarishmMndl&layout=compact&langs_count=8&bg_color=1a0a0a&title_color=ef4444&icon_color=f97316&text_color=fde8e8&border_color=ef4444&hide_border=false" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarishmMndl&layout=compact&langs_count=8&bg_color=0B1220&title_color=3b82f6&icon_color=06B6D4&text_color=F8FAFC&border_color=1D4ED8&hide_border=false" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=HarishmMndl&background=1a0a0a&ring=ef4444&fire=f97316&currStreakLabel=f97316&sideLabels=fde8e8&currStreakNum=fde8e8&sideNums=fde8e8&dates=7a5a5a&border=ef4444&hide_border=false" height="165" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=HarishmMndl&background=0B1220&ring=1D4ED8&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748b&border=1D4ED8&hide_border=false" height="165" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -178,7 +178,7 @@ Currently focused on:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0a0a,50:ef4444,100:3b0a0a&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:1D4ED8,100:0B1220&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- ACHIEVEMENTS & CERTIFICATIONS                                          -->
@@ -194,10 +194,10 @@ Currently focused on:
 **Courses & Learning**
 
 - 📊 **Data Analytics**  
-  [![In Progress](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square)](#)  
+  [![In Progress](https://img.shields.io/badge/Status-In_Progress-0284c7?style=flat-square)](#)  
   *Power BI, SQL, Excel*
 - 🤖 **Machine Learning**  
-  [![In Progress](https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square)](#)  
+  [![In Progress](https://img.shields.io/badge/Status-In_Progress-0284c7?style=flat-square)](#)  
   *Scikit-learn, Python*
 
 </td>
@@ -224,7 +224,7 @@ Currently focused on:
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,50:ef4444,100:f97316&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:1D4ED8,100:06B6D4&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- BEYOND CODE                                                            -->
@@ -236,7 +236,7 @@ Currently focused on:
 >
 > When I'm not writing code or analyzing data, you'll find me exploring new technologies, tinkering with side projects, or diving into the latest trends in AI and data science. Always curious, always learning.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0a0a,50:ef4444,100:3b0a0a&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:1D4ED8,100:0B1220&height=2&width=100%" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- CLOSING & FOOTER                                                       -->
@@ -245,13 +245,13 @@ Currently focused on:
 <div align="center">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarishmMndl&color=ef4444&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=HarishmMndl&color=1D4ED8&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 *"Turning ideas into code, and data into insights — one commit at a time."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbbf24,25:f97316,50:ef4444,75:3b0a0a,100:1a0a0a&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,25:0284c7,50:1D4ED8,75:0f172a,100:0B1220&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner"/>
 
 </div>
